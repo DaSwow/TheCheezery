@@ -6,10 +6,14 @@
         <entry key="..\:/Users/LV1823/Desktop/NuevaCarpeta/TheCheezery-main/app/src/main/res/layout/activity_productos_layout.xml" value="0.33" />
         <entry key="..\:/Users/LV1823/Desktop/NuevaCarpeta/TheCheezery-main/app/src/main/res/layout/producto_view.xml" value="0.33" />
         <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/TheCheezery/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/TheCheezery/app/src/main/res/layout/activity_menu.xml" value="0.30570652173913043" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/TheCheezery/app/src/main/res/layout/activity_productos_layout.xml" value="0.29739583333333336" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/TheCheezery/app/src/main/res/layout/activity_register.xml" value="0.2703125" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/TheCheezery/app/src/main/res/layout/producto_view.xml" value="0.33" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

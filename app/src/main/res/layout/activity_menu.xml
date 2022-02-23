@@ -36,7 +36,7 @@
         >
 
         <Button
-            android:id="@+id/coldDrinksButton"
+            android:id="@+id/btnColdDrinks"
             android:layout_columnWeight="1"
             android:layout_gravity="fill_horizontal"
             android:layout_marginRight="@dimen/menu_buttons_margin"
@@ -49,7 +49,7 @@
             />
 
         <Button
-            android:id="@+id/hotDrinksButton"
+            android:id="@+id/btnHotDrinks"
             android:layout_columnWeight="1"
             android:layout_gravity="fill_horizontal"
             android:layout_marginLeft="@dimen/menu_buttons_margin"
@@ -63,7 +63,7 @@
 
 
         <Button
-            android:id="@+id/sweetsButton"
+            android:id="@+id/btnSweets"
             android:layout_columnWeight="1"
             android:layout_gravity="fill_horizontal"
             android:layout_marginRight="@dimen/menu_buttons_margin"
@@ -76,7 +76,7 @@
             />
 
         <Button
-            android:id="@+id/saltiesButton"
+            android:id="@+id/btnSalties"
 
             android:layout_columnWeight="1"
             android:layout_gravity="fill_horizontal"
@@ -90,7 +90,7 @@
             />
 
         <Button
-            android:id="@+id/combosButton"
+            android:id="@+id/btnCombos"
             android:layout_columnWeight="1"
             android:layout_gravity="fill_horizontal"
             android:layout_marginRight="@dimen/menu_buttons_margin"
@@ -103,7 +103,7 @@
             />
 
         <Button
-            android:id="@+id/customButton"
+            android:id="@+id/btnCustom"
             android:layout_columnWeight="1"
             android:layout_gravity="fill_horizontal"
             android:layout_marginLeft="@dimen/menu_buttons_margin"
