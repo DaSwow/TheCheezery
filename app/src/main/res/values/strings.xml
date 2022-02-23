@@ -15,4 +15,9 @@
     <string name="sweets">Sweets</string>
     <string name="salties">Salties</string>
     <string name="combos">Combos</string>
+    <string name="productodesc">Descripción del Producto</string>
+    //Nombres bebida
+    <string name="caramelfrap">Caramel Frap</string>
+    <string name="caramelfrapprecio">$5.00</string>
+
 </resources>
